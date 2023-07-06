@@ -1,5 +1,6 @@
 import random
 
+print("로또 추첨")
 print("로또 번호 다섯개 추첨하자!")
 
 for i in range(5) :
